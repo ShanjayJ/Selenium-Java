@@ -1,0 +1,59 @@
+[main] DEBUG 26 06/09/2017 10:08:39 File Declared
+[main] INFO 28 06/09/2017 10:08:39 File Instance Instanciated
+[main] WARN 29 06/09/2017 10:08:39 Calling Write Data
+[main] WARN 31 06/09/2017 10:08:46 Calling Read Data
+[main] ERROR 38 06/09/2017 10:08:46 Iam in Read data
+[main] DEBUG 26 06/09/2017 10:10:31 File Declared
+[main] INFO 28 06/09/2017 10:10:31 File Instance Instanciated
+[main] WARN 29 06/09/2017 10:10:31 Calling Write Data
+[main] FATAL 52 06/09/2017 10:10:31 Iam in Write data
+[main] WARN 59 06/09/2017 10:10:36 Calling Stream from write data
+[main] WARN 31 06/09/2017 10:10:37 Calling Read Data
+[main] ERROR 38 06/09/2017 10:10:37 Iam in Read data
+[main] WARN 43 06/09/2017 10:10:37 Closing Stearm From Read Data
+[main] DEBUG 26 06/09/2017 10:36:10 File Declared
+[main] INFO 28 06/09/2017 10:36:10 File Instance Instanciated
+[main] WARN 29 06/09/2017 10:36:10 Calling Write Data
+[main] FATAL 52 06/09/2017 10:36:10 Iam in Write data
+[main] WARN 59 06/09/2017 10:36:18 Calling Stream from write data
+[main] WARN 31 06/09/2017 10:36:18 Calling Read Data
+[main] ERROR 38 06/09/2017 10:36:18 Iam in Read data
+[main] WARN 43 06/09/2017 10:36:18 Closing Stearm From Read Data
+[main] DEBUG 26 08/11/2017 11:46:51 File Declared
+[main] INFO 28 08/11/2017 11:46:51 File Instance Instanciated
+[main] WARN 29 08/11/2017 11:46:51 Calling Write Data
+[main] FATAL 52 08/11/2017 11:46:51 Iam in Write data
+[main] DEBUG 26 08/11/2017 11:47:09 File Declared
+[main] INFO 28 08/11/2017 11:47:09 File Instance Instanciated
+[main] WARN 29 08/11/2017 11:47:09 Calling Write Data
+[main] FATAL 52 08/11/2017 11:47:09 Iam in Write data
+[main] WARN 59 08/11/2017 11:47:19 Calling Stream from write data
+[main] WARN 31 08/11/2017 11:47:19 Calling Read Data
+[main] ERROR 38 08/11/2017 11:47:19 Iam in Read data
+[main] WARN 43 08/11/2017 11:47:19 Closing Stearm From Read Data
+[main] DEBUG 26 08/11/2017 11:47:37 File Declared
+[main] INFO 28 08/11/2017 11:47:37 File Instance Instanciated
+[main] WARN 29 08/11/2017 11:47:37 Calling Write Data
+[main] FATAL 52 08/11/2017 11:47:37 Iam in Write data
+[main] WARN 59 08/11/2017 11:47:42 Calling Stream from write data
+[main] WARN 31 08/11/2017 11:47:42 Calling Read Data
+[main] ERROR 38 08/11/2017 11:47:42 Iam in Read data
+[main] WARN 43 08/11/2017 11:47:42 Closing Stearm From Read Data
+[main] DEBUG 26 08/11/2017 23:59:48 File Declared
+[main] INFO 28 08/11/2017 23:59:48 File Instance Instanciated
+[main] WARN 29 08/11/2017 23:59:48 Calling Write Data
+[main] FATAL 52 08/11/2017 23:59:49 Iam in Write data
+[main] WARN 59 08/11/2017 23:59:52 Calling Stream from write data
+[main] WARN 31 09/11/2017 00:00:00 Calling Read Data
+[main] ERROR 38 09/11/2017 00:00:03 Iam in Read data
+[main] DEBUG 26 09/11/2017 00:03:58 File Declared
+[main] DEBUG 26 09/11/2017 00:03:58 File Declared
+[main] INFO 28 09/11/2017 00:03:59 File Instance Instanciated
+[main] INFO 28 09/11/2017 00:03:59 File Instance Instanciated
+[main] WARN 29 09/11/2017 00:03:59 Calling Write Data
+[main] WARN 29 09/11/2017 00:03:59 Calling Write Data
+[main] FATAL 52 09/11/2017 00:04:02 Iam in Write data
+[main] FATAL 52 09/11/2017 00:04:04 Iam in Write data
+[main] WARN 59 09/11/2017 00:04:16 Calling Stream from write data
+[main] WARN 31 09/11/2017 00:04:22 Calling Read Data
+[main] ERROR 38 09/11/2017 00:04:26 Iam in Read data

@@ -1,0 +1,5 @@
+WinWaitActive("File Upload")
+ControlFocus ("File Upload","","Edit1")
+Sleep(2000)
+ControlSetText("File Upload","","Edit1","C:\Users\shanj\Desktop\Shanjay\Shanjay_pic.jpg")
+ControlClick ("File Upload","","Button1")

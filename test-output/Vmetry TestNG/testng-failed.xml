@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Vmetry TestNG]" parallel="methods">
+  <test name="Parallel TestMethod(failed)" parallel="methods">
+    <classes>
+      <class name="com.vmetry.testng.ParallelTestMethod">
+        <methods>
+          <include name="lauchGoogle"/>
+        </methods>
+      </class> <!-- com.vmetry.testng.ParallelTestMethod -->
+    </classes>
+  </test> <!-- Parallel TestMethod(failed) -->
+</suite> <!-- Failed suite [Vmetry TestNG] -->
